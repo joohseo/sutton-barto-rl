@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# uv
+.venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# book PDF
+*.pdf
